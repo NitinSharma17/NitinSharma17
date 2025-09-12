@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NitinSharma17](https://github.com/NitinSharma17)
 
-- 💬 Ask me about **Selenium, SDET, JAVA, Mobile Testing**
+- 💬 Ask me about **Selenium,JAVA**
 
 - 📫 How to reach me **nitin.sharma01789@gmail.com**
 
